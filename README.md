@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smdriggers
-- 👀 I’m a data science student at Lambda School, interested in machine learning/deep learning.
-- 🌱 I’m currently working on my data engineering skills
+- 👀 I'm a senior consultant and Data Engineer working at Booz Allen and doing exciting work for our NASA partners!
+- 🌱 In my free time I work on little games in pygame and Godot
 - contact @ smdriggers@gmail.com
 
 <!---
